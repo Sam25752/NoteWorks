@@ -21,5 +21,5 @@ Frontend has been completely made using pure **HTML**, **Javascript** and **CSS*
 ## Pending Tasks:
 * Add a Dark Mode.
 
-## Author(s):
-###### [Anjali Kumari](https://github.com/Anjali7992)
+
+
